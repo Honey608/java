@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec47f34-de59-435e-aa8a-82e575524e27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cec47f34-de59-435e-aa8a-82e575524e27" name="Default Changelist" comment="泛型">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +93,16 @@
       <option name="presentableId" value="Default" />
       <updated>1668775224384</updated>
       <workItem from="1668775228209" duration="4355000" />
-      <workItem from="1729685995530" duration="2173000" />
+      <workItem from="1729685995530" duration="2418000" />
     </task>
+    <task id="LOCAL-00001" summary="泛型">
+      <created>1729688996881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729688996881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="泛型" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型" />
   </component>
 </project>
